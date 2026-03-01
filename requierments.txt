@@ -1,0 +1,6 @@
+langchain
+langchain-anthropic
+langchain-community
+yfinance
+tavily-python
+python-dotenv
